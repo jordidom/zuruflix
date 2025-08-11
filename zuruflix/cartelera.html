@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZuruFlix</title>
+    <link rel="stylesheet" href="static/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>ZuruFlix</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><button onclick="mostrarTodo()">Inicio</button></li>
+            <li><button onclick="filtrarContenido('pelicula')">Películas</button></li>
+            <li><button onclick="filtrarContenido('serie')">Series</button></li>
+        </ul>
+    </nav>
+    <main>
+        <section class="gallery" id="gallery">
+            <!-- Las películas se cargarán aquí dinámicamente -->
+        </section>
+    </main>
+
+    <script defer src="static/js/script.js"></script>
+</body>
+</html>
