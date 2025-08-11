@@ -10,8 +10,8 @@ document.addEventListener("DOMContentLoaded", () => {
         { title: "Karate Kid Leyends", img: "https://www.noticiasgobierno.com/wp-content/uploads/2024/12/Karate-Kid-Leyendas.jpg", video: "pelicula6.html", category: "pelicula" },
         { title: "28 años después", img: "https://es.web.img3.acsta.net/img/5c/f3/5cf309bb27c25dd8a20548e7e6ae9d94.jpg", video: "pelicula7.html", category: "pelicula" },
         { title: "Jurassic World: El Renacer", img: "https://tse4.mm.bing.net/th/id/OIP.BMWnaisMhN0jx6mbJmqjFQHaK-?rs=1&pid=ImgDetMain&o=7&rm=3", video: "pelicula8.html", category: "pelicula" },
-        { title: "Película 9", img: "https://image.tmdb.org/t/p/original/aGJkPbMixqD6j0OjbbGouSMbiZO.jpg", video: "pelicula9.html", category: "pelicula" },
-        { title: "Película 10", img: "https://image.tmdb.org/t/p/original/aGJkPbMixqD6j0OjbbGouSMbiZO.jpg", video: "pelicula10.html", category: "pelicula" }
+        { title: "El instituto", img: "https://hips.hearstapps.com/hmg-prod/images/el-instituto-stephen-king-1568182857.jpg?resize=640:*", video: "pelicula9.html", category: "pelicula" },
+        { title: "angeles del desierto", img: "https://pics.filmaffinity.com/dirty_angels-113817678-large.jpg", video: "pelicula10.html", category: "pelicula" }
     ];
 
     movies.forEach(movie => {
