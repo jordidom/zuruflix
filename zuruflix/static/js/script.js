@@ -10,8 +10,11 @@ document.addEventListener("DOMContentLoaded", () => {
         { title: "Karate Kid Leyends", img: "https://www.noticiasgobierno.com/wp-content/uploads/2024/12/Karate-Kid-Leyendas.jpg", video: "pelicula6.html", category: "pelicula" },
         { title: "28 años después", img: "https://es.web.img3.acsta.net/img/5c/f3/5cf309bb27c25dd8a20548e7e6ae9d94.jpg", video: "pelicula7.html", category: "pelicula" },
         { title: "Jurassic World: El Renacer", img: "https://tse4.mm.bing.net/th/id/OIP.BMWnaisMhN0jx6mbJmqjFQHaK-?rs=1&pid=ImgDetMain&o=7&rm=3", video: "pelicula8.html", category: "pelicula" },
-        { title: "El instituto", img: "https://hips.hearstapps.com/hmg-prod/images/el-instituto-stephen-king-1568182857.jpg?resize=640:*", video: "pelicula9.html", category: "pelicula" },
-        { title: "angeles del desierto", img: "https://pics.filmaffinity.com/dirty_angels-113817678-large.jpg", video: "pelicula10.html", category: "pelicula" }
+        { title: "El instituto", img: "https://hips.hearstapps.com/hmg-prod/images/el-instituto-stephen-king-1568182857.jpg?resize=640:*", video: "pelicula9.html", category: "serie" },
+        { title: "Angeles del desierto", img: "https://pics.filmaffinity.com/dirty_angels-113817678-large.jpg", video: "pelicula10.html", category: "pelicula" },
+        { title: "Coco", img: "https://noescinetodoloquereluce.com/wp-content/uploads/2017/09/coco-9.jpg", video: "pelicula11.html", category: "pelicula" },
+        { title: "Al otro barrio", img: "https://www.ecartelera.com/carteles/18700/18784/001_m.jpg", video: "pelicula12.html", category: "pelicula" },
+        { title: "Miércoles", img: "https://www.introseries.tv/wp-content/uploads/2022/11/poster-serie-miercoles-netflix.jpg", video: "pelicula13.html", category: "serie" }
     ];
 
     movies.forEach(movie => {
